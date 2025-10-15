@@ -1,0 +1,24 @@
+<resources>
+    <!-- Main brand color used for buttons, app bar, etc. -->
+    <!-- BBlue
+    <color name="md_theme_primary">#2196F3</color>-->
+    <!-- Deep dark blue theme -->
+    <color name="md_theme_primary">#12425C</color>
+
+
+    <!-- Text or icons that appear on top of the primary color -->
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+
+    <!-- Background color for main surfaces like screens and cards -->
+    <color name="md_surface">#FFFFFF</color>
+
+    <!-- Text color that appears on top of surface backgrounds -->
+    <color name="md_onSurface">#1B1B1B</color>
+
+    <!-- Outline color for borders or dividers -->
+    <color name="md_outline">#79747E</color>
+
+    <!-- Background for subtle chips or small rounded elements -->
+    <color name="chip_bg">#F2F0F5</color>
+</resources>
+

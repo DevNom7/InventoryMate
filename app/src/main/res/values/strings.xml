@@ -1,0 +1,36 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">InventoryMate</string>
+
+    <!-- Screen titles (used by Manifest) -->
+    <string name="title_login">Log In</string>
+    <string name="title_inventory">Inventory</string>
+    <string name="title_sms">SMS Notifications</string>
+
+    <!-- Login screen -->
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Log In</string>
+    <string name="btn_create_account">Create Account</string>
+    <string name="txt_or">or</string>
+    <string name="nav_to_inventory">Go to Inventory</string>
+    <string name="nav_to_sms">Go to SMS</string>
+
+    <!-- Inventory screen -->
+    <string name="hdr_name">Item</string>
+    <string name="hdr_qty">Qty</string>
+    <string name="hdr_date">Date</string>
+    <string name="btn_add_item">Add Item</string>
+    <string name="btn_delete">Delete</string>
+    <string name="empty_grid">No items yet</string>
+    <string name="nav_to_login">Back to Login</string>
+
+    <!-- SMS screen -->
+    <string name="sms_desc">
+        This app can send helpful text alerts (e.g., low inventory). To enable SMS notifications, grant permission below.
+    </string>
+    <string name="btn_check_permission">Check / Request SMS Permission</string>
+    <string name="perm_status_unknown">Permission status: Unknown</string>
+    <string name="perm_status_granted">Permission status: Granted</string>
+    <string name="perm_status_denied">Permission status: Denied</string>
+</resources>

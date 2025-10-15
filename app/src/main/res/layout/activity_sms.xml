@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvPermStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Permission status will appear here"
+        android:textSize="16sp"
+        android:paddingBottom="8dp" />
+
+    <Button
+        android:id="@+id/btnCheckPermission"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Check SMS Permission" />
+
+    <Button
+        android:id="@+id/btnSendTest"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Test SMS" />
+
+    <Button
+        android:id="@+id/navLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go to Login" />
+
+    <Button
+        android:id="@+id/navInventory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Go to Inventory" />
+
+</LinearLayout>
