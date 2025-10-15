@@ -1,10 +1,12 @@
 # 💼 InventoryMate  
 _SNHU CS360 – Mobile Architect & Programming_   October 15, 2025
 > Simple, Offline Inventory Tracking for Everyone
+> 
 <p align="center">
-<img width="300" height="600" alt="Screenshot_20251015_172458" src="https://github.com/user-attachments/assets/858d9cc2-1c77-43d9-a6b7-0c7ff1043d50" />
-<img width="300" height="600" alt="Screenshot_20251015_172540" src="https://github.com/user-attachments/assets/36c9dd27-b814-45d2-a363-539b3676e8d3" />
+  <img width="280" alt="login_screen" src="https://github.com/user-attachments/assets/707a01cc-2e97-4f88-9edb-17fee69075e1" />
+  <img width="280" alt="inventory_screen" src="https://github.com/user-attachments/assets/9b249203-d249-4ba5-99a5-ec94e0b109bc" />
 </p>
+
 
 ## 🪞 Reflection (CS360 Module Eight Journal)
 
