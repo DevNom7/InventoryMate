@@ -68,26 +68,6 @@ Inventory Screen: Add and display inventory items saved to SQLite.
 SMS Screen: Check or request permission and send a test text message.
 
 --
-InventoryMate/
- ├── app/
- │   ├── src/
- │   │   ├── main/
- │   │   │   ├── java/com/example/inventorymate/ui/
- │   │   │   │   ├── LoginActivity.java
- │   │   │   │   ├── InventoryActivity.java
- │   │   │   │   ├── SmsActivity.java
- │   │   │   ├── java/com/example/inventorymate/data/
- │   │   │   │   ├── DatabaseHelper.java
- │   │   │   ├── res/layout/
- │   │   │   │   ├── activity_login.xml
- │   │   │   │   ├── activity_inventory.xml
- │   │   │   │   ├── activity_sms.xml
- │   │   │   ├── AndroidManifest.xml
- │   │   ├── res/values/strings.xml
- ├── README.md
- ├── InventoryMate_LaunchPlan.docx
- └── app-debug.apk
---
 💡 Future Development
 ☁️ Add Firebase/Firestore sync and authentication
 🌙 Introduce dark mode + user color themes
