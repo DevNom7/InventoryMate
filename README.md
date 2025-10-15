@@ -2,8 +2,8 @@
 _SNHU CS360 – Mobile Architect & Programming_   October 15, 2025
 > Simple, Offline Inventory Tracking for Everyone
 <p align="center">
-<img width="1080" height="2400" alt="Screenshot_20251015_172458" src="https://github.com/user-attachments/assets/858d9cc2-1c77-43d9-a6b7-0c7ff1043d50" />
-<img width="1080" height="2400" alt="Screenshot_20251015_172540" src="https://github.com/user-attachments/assets/36c9dd27-b814-45d2-a363-539b3676e8d3" />
+<img width="300" height="300" alt="Screenshot_20251015_172458" src="https://github.com/user-attachments/assets/858d9cc2-1c77-43d9-a6b7-0c7ff1043d50" />
+<img width="300" height="300" alt="Screenshot_20251015_172540" src="https://github.com/user-attachments/assets/36c9dd27-b814-45d2-a363-539b3676e8d3" />
 </p>
 
 ## 🪞 Reflection (CS360 Module Eight Journal)
