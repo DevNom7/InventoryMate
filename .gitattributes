@@ -1,0 +1,4 @@
+# De-emphasize non-source files in language stats
+*.gradle linguist-vendored
+gradle/** linguist-vendored
+*.xml linguist-documentation
